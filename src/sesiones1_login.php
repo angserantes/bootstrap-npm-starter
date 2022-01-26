@@ -27,8 +27,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   <head>
     <title>Formulario de login</title>
     <meta charset = "UTF-8">
-    <link rel="stylesheet" href="/scss/starter.scss">
-    <link rel="stylesheet" href="/assets/css/starter.css">
+    <link rel="stylesheet" href="../scss/starter.scss">
+    <link rel="stylesheet" href="../assets/css/starter.css">
   </head>
 
   <body>
