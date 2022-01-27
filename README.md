@@ -1,6 +1,6 @@
 ## Seguridad y usuarios-inicio de sesión/bootstrap
 
-1.Clonamos el repositorio de bootstrap starter a través del siguiente comando en Laragon:
+1. Clonamos el repositorio de bootstrap starter a través del siguiente comando en Laragon:
 
 git clone https://github.com/twbs/bootstrap-npm-starter
 
