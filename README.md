@@ -24,7 +24,7 @@ npm start
 
 6. Importamos una base de datos a través de phpMyAdmin.
 
-7. En el archivo "sesiones1_principa.php" hacemos la conexión a la base de datos:
+7. En el archivo "sesiones1_principal.php" hacemos la conexión a la base de datos:
   $cadena_conexion = 'mysql:dbname=empresa;host=127.0.0.1';
   
 8. Lo visualizamos en el navegador de la siguiente forma:
