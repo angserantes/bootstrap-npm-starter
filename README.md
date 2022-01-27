@@ -8,18 +8,14 @@ cd bootstrap-npm-starter
 2. Instalamos las dependencias que se indican en el repositorio:
 npm i
 
-# Compile Sass
 npm run css-compile
 
-# Watch Sass for changes (uses nodemon)
 npm run watch
 
-# Start local server (uses sirv-cli)
 npm run server
 
-# Watches Sass for changes and starts a local server
 npm start
-```
+
 
 3. Creamos la carpeta /src con los archivos "sesiones1_login.php, sesiones1_principal.php y sesiones1_logout.php"
 4. Añadimos el contenido que nos ofrece el manual en la unidad 3.
